@@ -5,7 +5,7 @@
 ## Quelles sont les adresses IP et les adresses MAC des interfaces ayant échangé des informations ?
        Sender MAC: -Private_66:68:00 (00:50:79:66:68:00)
        Sender IP: -10.1.1.1
-       Target MAC: Broadcast (FF:FF:FF:FF:FF:FF)
+       Target MAC: Private_66:68:01 (00:50:79:66:68:01)
        Target IP: 10.1.1.2
 
 ## Quel filtre d'affichage permet de ne plus afficher les paquets ARP ?
